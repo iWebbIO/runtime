@@ -1,0 +1,11 @@
+# Core AI library for accessing models
+g4f
+
+# Web server framework for the API
+Flask
+
+# GUI framework for the main server control panel
+customtkinter
+
+# For making the shutdown HTTP request from the GUI to the server
+requests
